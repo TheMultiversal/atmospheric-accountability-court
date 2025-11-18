@@ -1,0 +1,20 @@
+[
+  {
+    "id": "example-aero",
+    "name": "Example Aerospace",
+    "summary": "Example Aerospace is a fictional placeholder company to show structure.",
+    "jurisdiction": "Fictionland",
+    "evidenceSummary": "No verified allegations; template entry. Add sources and verifiable evidence before publishing.",
+    "allegations": [
+      {
+        "id": "allegation-1",
+        "title": "Unverified aerosol operation claim",
+        "description": "Template entry: do not publish as fact.",
+        "evidenceUrls": ["https://example.com/source1.pdf"],
+        "dateReported": "2025-11-17",
+        "status": "unverified"
+      }
+    ],
+    "sources": ["https://example.com"]
+  }
+]
